@@ -41,7 +41,7 @@
 
 <br>
 
-![ghassan's github stats](https://github-readme-stats.vercel.app/api?username=ghassan222&show_icons=true&theme=default)
+![ghassan's github stats](https://github-readme-stats.vercel.app/api?username=GhassanSabir&count_private=true&show_icons=true&theme=default)
 
 ## Ghassan Sabir 👨‍💻
 [![Twitter Badge](https://img.shields.io/badge/-GhassanSabir-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/itsghassan1)](https://twitter.com/SulthanNK) 
