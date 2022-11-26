@@ -27,7 +27,7 @@
 
 <div align="center">
 <h3>💻 out and about</h3>
-</div>
+
 
 ### Frequently Used Languages and Tools 
 
@@ -47,7 +47,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-GhassanSabir-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/itsghassan1)](https://twitter.com/SulthanNK) 
 [![Linkedin Badge](https://img.shields.io/badge/-GhassanSabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghassan-sabir-7bb927166/)](https://www.linkedin.com/in/ghassan-sabir-7bb927166/) 
 
-
+</div>
 
 
 
